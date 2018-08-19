@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "jsx": "react", 
+        "target": "es5", 
+        "sourceMap": true,
+        "allowSyntheticDefaultImports": true,
+    },
+    "exclude": [
+        "node_modules",
+        "__tests__/*.test.ts"
+    ]
+}
