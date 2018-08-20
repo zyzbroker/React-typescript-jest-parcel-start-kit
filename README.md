@@ -1,4 +1,4 @@
-# A simpel React.js based testable, parcel-bundler based start kit
+# A simple React.js based testable, parcel-bundler based start kit
 
 This is a simple [parcel bundler](https://parceljs.org/) based react typecript jest testable development start kit. 
 
