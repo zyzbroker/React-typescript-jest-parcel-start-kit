@@ -11,7 +11,7 @@ What you can do with this start kit are:
     * visual code editor based. it just works out of box.
     * HMR is out of the box. just run yarn start
 
-We are welcomed to send your feedback to us so that we can improve this start kit and hope that you could help those beginner to start to work on application-specific.
+We are welcomed to send your feedback to us so that we can improve this start kit and hope that it might help the beginners to start to work on application-specific.
 
 **Note**
 
