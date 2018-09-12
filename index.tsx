@@ -1,10 +1,10 @@
 import * as React from "react";
 import ReactDOM from "react-dom";
-import Hello from "./hello";
+import {App} from "./lib/App";
 import message from "./message";
 import "./style.scss";
 
 ReactDOM.render(
-    <Hello name={message} enthusiasmLevel={10} />,
+    <App/>,
     document.querySelector("#placeholder") as HTMLElement,
 );

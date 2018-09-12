@@ -1,21 +1,4 @@
-.body {
-    border: 1px solid red;
-    margin: 40px;
-    padding: 40px;
-    .section {
-        margin: 20px;
-        border: 1px solid #ddd;
-    }
-    .hello {
-        text-align: center;
-        margin: 20px;
-        font-size: 48px;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-    }
-    .hello button {
-        margin-left: 25px;
-        margin-right: 25px;
-        font-size: 40px;
-        min-width: 50px;
-    }
+@import "./scss/custom";
+.table {
+    font-size: inherit;
 }
