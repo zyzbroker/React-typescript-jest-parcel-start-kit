@@ -11,12 +11,16 @@ What you can do with this start kit are:
     * visual code editor based. it just works out of box.
     * HMR is out of the box. just run yarn start
 
-We are welcomed to send your feedback to us so that we can improve this start kit and hope that it might help the beginners to start to work on application-specific.
+You are welcomed to send your feedback to us so that we can improve this start kit and hope that it might help the beginners to start to work on application-specific.
 
 **Note**
 
 If you want to create react application, you might use [Create React App](https://github.com/facebook/create-react-app);
 
+You might need to install parcel-bundler
+
+ * sudo yarn global add parcel-bundler
+ * sudo npm install -g parcel bundler
 
 ## Facebook Watchman
 
